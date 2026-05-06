@@ -1,1 +1,1 @@
-I have learned how to use Git to clone and push files.
+What I have learned from this course is how to use Git and GitHub to track changes, commit work, and sync local projects with a remote repository.
